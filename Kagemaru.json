@@ -4,5 +4,14 @@
   "artist": "Shirato Sanpei",
   "author": "Shirato Sanpei",
   "cover": "https://cdn.mangaupdates.com/image/i210055.jpg",
-  "chapters": {}
+  "chapters": {
+    "21": {
+      "title": "Cast Out",
+      "volume": "2",
+      "last_updated": "1776002865",
+      "groups": {
+        "Jammin' Scans & FullTiltTranslations & Afternoon Pulp": "/proxy/api/imgur/chapter/XNh9Wmd"
+      }
+    }
+  }
 }
